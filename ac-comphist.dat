@@ -1,0 +1,32 @@
+((("python-shell-parse-command" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("python-shell-interpreter-args" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("setq" .
+   [1 0 0 0])
+  ("search_inner" .
+   [0 0 0 0 0 0 0 0 1 0 0 0])
+  ("terms" .
+   [1 0 0 0 0])
+  ("term" .
+   [2 0 0 0])
+  ("plot" .
+   [0 0 1 0])
+  ("figure" .
+   [0 0 0 0 1 0])
+  ("py" .
+   [2 0])
+  ("mainname" .
+   [2 0 0 0 0 0 0 0])
+  ("parameter1" .
+   [6 0 0 0 0 0 0 0 0 0])
+  ("python-shell-" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("python-shell-buffer-name" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("nil" .
+   [2 0 0])
+  ("if" .
+   [1 0])
+  ("eval-last-sexp" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])))
