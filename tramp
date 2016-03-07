@@ -1,27 +1,6 @@
-;; -*- emacs-lisp -*- <15/12/02 17:11:26 /home/luke/.emacs.d/tramp>
+;; -*- emacs-lisp -*- <16/03/07 05:23:28 /home/luke/.emacs.d/tramp>
 ;; Tramp connection history.  Don't change this file.
 ;; You can delete it, forcing Tramp to reapply the checks.
 
 ((["ssh" nil "alderaan" nil nil]
-  ("locale" "LC_ALL=en_US.utf8")
-  ("uname" "Linux 4.2.5-1-ARCH")
-  ("test" "test")
-  ("remote-path"
-   ("/bin" "/usr/bin" "/sbin" "/usr/sbin" "/usr/local/bin" "/usr/local/sbin"))
-  ("remote-shell" "/bin/sh")
-  ("file-exists" "test -e")
-  ("ls" "/bin/ls --color=never")
-  ("ls-dired" t)
-  ("stat" "\\stat")
-  ("id" "/bin/id")
-  ("gid-integer" 1000)
-  ("readlink" "\\readlink")
-  ("gid-string" "hope")
-  ("perl-file-spec" t)
-  ("perl-cwd-realpath" t)
-  ("perl" "\\perl")
-  ("uid-integer" 1000)
-  ("tmpdir" "/ssh:alderaan:/tmp")
-  ("touch-t" t)
-  ("touch" "\\touch")
-  ("trash" nil)))
+  nil))
