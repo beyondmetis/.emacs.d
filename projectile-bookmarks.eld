@@ -1,1 +1,1 @@
-("~/blind_niqe3/" "~/.emacs.d/helm/" "~/.emacs.d/multi-term-tmux/" "/usr/lib/python3.5/site-packages/scikit_video-1.1.0-py3.5.egg/skvideo/" "/usr/lib/python3.5/site-packages/scipy/" "/usr/lib/python3.5/site-packages/numpy/")
+("~/.emacs.d/" "~/blind_niqe3/" "/usr/lib/python3.5/site-packages/scipy/ndimage/" "~/.emacs.d/helm/" "~/.emacs.d/multi-term-tmux/" "/usr/lib/python3.5/site-packages/scikit_video-1.1.0-py3.5.egg/skvideo/" "/usr/lib/python3.5/site-packages/scipy/" "/usr/lib/python3.5/site-packages/numpy/")

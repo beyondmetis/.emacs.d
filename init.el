@@ -196,6 +196,9 @@ Repeated invocations toggle between the two most recently open buffers."
   "t" 'helm-gtags-dwim
   "5" 'tmux-self
   "6" 'tmux-hope
+)
+
+(evil-leader/set-key-for-mode 'python-mode
   "," 'jedi:goto-definition
   "." 'jedi:goto-definition-pop-marker
   "/" 'jedi:show-doc
