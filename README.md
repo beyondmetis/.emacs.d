@@ -7,6 +7,7 @@ Clone this repo into your home directory (assuming you don't have any config for
 Install packages:
 
 ipython2
+pip install jedi epc
 
 
 Run emacs and type 'y' for all the prompts to install packages (if any). Enjoy!
